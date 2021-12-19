@@ -6,7 +6,7 @@
 Install with [Fisher](https://github.com/jorgebucaran/fisher):
 
 ```console
-fisher install pteroid/fish-cdf
+fisher install NKNaaS/fish-cdf
 ```
 
 ## Usage
