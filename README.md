@@ -1,12 +1,13 @@
 # fish-cdf
 
+Command to open a directory in the Mac Finder in a shell.
 
 ## Installation
 
 Install with [Fisher](https://github.com/jorgebucaran/fisher):
 
-```console
-fisher install NKNaaS/fish-cdf
+```shell
+fisher install nakanoasaservice/fish-cdf
 ```
 
 ## Usage
