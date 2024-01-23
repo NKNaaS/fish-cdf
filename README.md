@@ -1,6 +1,6 @@
 # fish-cdf
 
-Command to open a directory in the Mac Finder in a shell.
+Fish plugin to open macOS Finder folders in a shell.
 
 ## Installation
 
